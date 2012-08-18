@@ -9,13 +9,13 @@ COMMAND+ALT+N (Mac OS)
 
 Here is an example of what the new file will contain
 
-<!---
+&lt;!---
 	Name:
 	Description:
 	Written By:
 	Date Created: Fri Aug 01 17:25:46 2010
 	History:
----->
+----&gt;
 
 
 License
