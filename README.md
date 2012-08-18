@@ -1,6 +1,6 @@
 SublimeCFNewFile
 ================
-This command will allow you to create a new cf file and auto populate with file information for the user to fill in.
+This command will allow you to create a new file and auto populate with file information for the user to fill in. The info is wrapped in a cfcomment block which could also pass as an html comment block.
 
 How-to
 ======
