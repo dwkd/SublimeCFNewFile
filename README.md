@@ -9,7 +9,7 @@ COMMAND+ALT+N (Mac OS)
 
 Here is an example of what the new file will contain
 
-&lt;!---
+&lt;!---\n
 	Name:
 	Description:
 	Written By:
