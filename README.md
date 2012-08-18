@@ -9,12 +9,12 @@ COMMAND+ALT+N (Mac OS)
 
 Here is an example of what the new file will contain
 
-&lt;!---\n
-	Name:
-	Description:
-	Written By:
-	Date Created: Fri Aug 01 17:25:46 2010
-	History:
+&lt;!---<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Name:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Description:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Written By:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Date Created: Fri Aug 01 17:25:46 2010<br>
+&nbsp;&nbsp;&nbsp;&nbsp;History:<br>
 ----&gt;
 
 
