@@ -1,27 +1,20 @@
 SublimeCFNewFile
 ================
 This command will allow you to create a new cf file and auto populate with file information for the user to fill in.
-Contains: 
-	- Name
-	- Description
-	- Written By
-	- Date Create (auto populated with the current local time)
-	- History
 
-These will be wrapped in cf comments. Example:
+How-to
+======
+CTRL+ALT+N (Windows & Linux)
+COMMAND+ALT+N (Mac OS)
+
+Here is an example of what the new file will contain
 
 <!---
-
 	Name:
-
 	Description:
-
 	Written By:
-
 	Date Created: Fri Aug 01 17:25:46 2010
-
 	History:
-
 ---->
 
 
